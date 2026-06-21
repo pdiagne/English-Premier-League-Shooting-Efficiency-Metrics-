@@ -68,4 +68,20 @@ Coaches	Train Bruno Fernandes on close-range finishing (negative CPG); encourage
 Jamie Vardy is the Premier League's most efficient finisher (highest SEN and conversion rate). Roberto Firmino is the most versatile long-range threat (highest CPG). Elite all-around finishers like Kane, Sterling, and Firmino combine high SEN with strong CPG—making them the most valuable attacking assets.
 The data also identifies clear areas for improvement: Maddison and Eriksen take too many low-quality shots, while Bruno Fernandes should focus on closer-range opportunities. These insights enable data-driven decisions on player deployment, scouting, and development.
 
+[Player_Comparison_Summary.pdf](https://github.com/user-attachments/files/29185703/Player_Comparison_Summary.pdf)
+
+[Top_Performers_Avg_CPG.pdf](https://github.com/user-attachments/files/29185707/Top_Performers_Avg_CPG.pdf)
+
+[Top_Performers_Avg_SEN.pdf](https://github.com/user-attachments/files/29185710/Top_Performers_Avg_SEN.pdf)
+
+[Top_Performers_Goal_Conversion.pdf](https://github.com/user-attachments/files/29185711/Top_Performers_Goal_Conversion.pdf)
+
+
+
+
+
+
+
+
+
 
