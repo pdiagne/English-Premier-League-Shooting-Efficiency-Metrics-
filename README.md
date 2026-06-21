@@ -12,7 +12,7 @@ Conversion Pressure Gradient (CPG)
 CPG measures how shot efficiency changes with distance from goal. It shows whether a player maintains their finishing quality from farther away. Positive CPG means efficiency increases with distance (rare), negative CPG means efficiency decreases with distance (expected). Higher CPG indicates a player who is dangerous from more positions on the pitch.
 Combined Use: SEN tells you how well a player finishes, while CPG tells you where they are most dangerous. Together, they identify player archetypes—clinical poachers (high SEN, low CPG), long-range threats (moderate SEN, high CPG), or elite all-around finishers (high SEN, high CPG).
 
-1. Top Performers
+### Top Performers
 Best Finishers (Highest Avg SEN)
 Rank	Player	Shots	Avg SEN	Total xG
 1	Jamie Vardy	619	0.642	129.8
@@ -35,7 +35,7 @@ Rank	Player	Shots	Goals	Conversion %
 
 Insight: Vardy dominates both Avg SEN and conversion rate—clearly the Premier League's most efficient finisher among high-volume shooters.
 
-2. Player Archetypes
+### Player Archetypes
 Archetype	Players	Characteristics
 Elite All-Around (High SEN + High CPG)	Firmino, Sterling, Kane	Finish efficiently AND pose threat from distance
 Clinical Poachers (High SEN + Low CPG)	Vardy, Hazard, Wilson	Elite finishers but lose efficiency at distance
@@ -43,7 +43,7 @@ Long-Range Specialists (Moderate SEN + High CPG)	Antonio, Mané	Maintain efficie
 Inefficient Shooters (Low SEN + Low CPG)	Eriksen, Willian, Coutinho	Need improvement in finishing or shot selection
 
 
-3. Key Findings
+### Key Findings
 Volume vs. Efficiency
     • Harry Kane (1,154 shots, SEN=0.628): High volume with above-average efficiency
     • James Maddison (446 shots, SEN=0.259): High volume but very low efficiency—poor shot selection
@@ -57,14 +57,14 @@ Surprising Insights
     • Christian Benteke (SEN=0.487, CPG=0.996): Poor efficiency despite decent range—finishing quality is the issue
     • Olivier Giroud (SEN=0.488, CPG=1.293): Average efficiency but above-average range—useful target man
 
-4. Tactical Implications
+### Tactical Implications
 Stakeholder	Recommendation
 Managers	Deploy Vardy & Kane centrally (high SEN); use Firmino & Sterling in wider roles (high CPG); reduce shots from Maddison & Eriksen (low SEN)
 Scouts	Target Vardy-types for counter-attacking systems; target Firmino-types for possession-based systems; avoid high-volume, low-efficiency players like Maddison
 Coaches	Train Bruno Fernandes on close-range finishing (negative CPG); encourage Antonio to shoot from distance (high CPG); improve Willian & Coutinho's overall finishing (low SEN)
 
 
-5. Conclusion
+### Conclusion
 Jamie Vardy is the Premier League's most efficient finisher (highest SEN and conversion rate). Roberto Firmino is the most versatile long-range threat (highest CPG). Elite all-around finishers like Kane, Sterling, and Firmino combine high SEN with strong CPG—making them the most valuable attacking assets.
 The data also identifies clear areas for improvement: Maddison and Eriksen take too many low-quality shots, while Bruno Fernandes should focus on closer-range opportunities. These insights enable data-driven decisions on player deployment, scouting, and development.
 
