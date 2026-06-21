@@ -3,15 +3,14 @@ Analysis of Premier League player shooting efficiency using SEN (Shot Efficiency
 
 ### Analysis of Premier League Player Shooting Metrics
 
-Metric Descriptions
+This analysis evaluates 42 Premier League players with at least 350 shots. The Understat data is from the 2014 to 2023 seasons. The data reveals clear distinctions in finishing quality and shooting range among the league's most prolific attackers.
+
 Shot Efficiency Number (SEN)
 SEN measures how efficient a shot is compared to the player's own average performance. The formula combines shot quality (xG), shot outcome (via a result coefficient), and relative performance. Goals receive full credit (1.0), saved shots partial credit (0.6), blocked shots minimal credit (0.2), and missed shots zero (0.0). SEN > 1 means above average efficiency, SEN < 1 means below average.
+
 Conversion Pressure Gradient (CPG)
 CPG measures how shot efficiency changes with distance from goal. It shows whether a player maintains their finishing quality from farther away. Positive CPG means efficiency increases with distance (rare), negative CPG means efficiency decreases with distance (expected). Higher CPG indicates a player who is dangerous from more positions on the pitch.
 Combined Use: SEN tells you how well a player finishes, while CPG tells you where they are most dangerous. Together, they identify player archetypes—clinical poachers (high SEN, low CPG), long-range threats (moderate SEN, high CPG), or elite all-around finishers (high SEN, high CPG).
-
-Executive Summary
-This analysis evaluates 42 Premier League players with at least 350 shots. The Understat data is from the 2014 to 2023 seasons. The data reveals clear distinctions in finishing quality and shooting range among the league's most prolific attackers.
 
 1. Top Performers
 Best Finishers (Highest Avg SEN)
