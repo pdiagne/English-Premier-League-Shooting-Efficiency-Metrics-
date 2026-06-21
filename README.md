@@ -1,7 +1,7 @@
-# English-Premier-League-Shooting-Efficiency-Metrics-
+## English-Premier-League-Shooting-Efficiency-Metrics-
 Analysis of Premier League player shooting efficiency using SEN (Shot Efficiency Number) and CPG (Conversion Pressure Gradient) metrics. Includes pitch visualizations, player comparisons, and tactical insights.
 
-Analysis of Premier League Player Shooting Metrics
+# Analysis of Premier League Player Shooting Metrics
 
 Metric Descriptions
 Shot Efficiency Number (SEN)
