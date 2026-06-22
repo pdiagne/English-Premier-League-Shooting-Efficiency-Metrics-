@@ -42,7 +42,6 @@ Clinical Poachers (High SEN + Low CPG)	Vardy, Hazard, Wilson	Elite finishers but
 Long-Range Specialists (Moderate SEN + High CPG)	Antonio, Mané	Maintain efficiency from distance
 Inefficient Shooters (Low SEN + Low CPG)	Eriksen, Willian, Coutinho	Need improvement in finishing or shot selection
 
-
 ### Key Findings
 Volume vs. Efficiency
     • Harry Kane (1,154 shots, SEN=0.628): High volume with above-average efficiency
@@ -63,18 +62,19 @@ Managers	Deploy Vardy & Kane centrally (high SEN); use Firmino & Sterling in wid
 Scouts	Target Vardy-types for counter-attacking systems; target Firmino-types for possession-based systems; avoid high-volume, low-efficiency players like Maddison
 Coaches	Train Bruno Fernandes on close-range finishing (negative CPG); encourage Antonio to shoot from distance (high CPG); improve Willian & Coutinho's overall finishing (low SEN)
 
-
 ### Conclusion
 Jamie Vardy is the Premier League's most efficient finisher (highest SEN and conversion rate). Roberto Firmino is the most versatile long-range threat (highest CPG). Elite all-around finishers like Kane, Sterling, and Firmino combine high SEN with strong CPG—making them the most valuable attacking assets.
 The data also identifies clear areas for improvement: Maddison and Eriksen take too many low-quality shots, while Bruno Fernandes should focus on closer-range opportunities. These insights enable data-driven decisions on player deployment, scouting, and development.
 
-[Player_Comparison_Summary.pdf](https://github.com/user-attachments/files/29185703/Player_Comparison_Summary.pdf)
+<img width="2850" height="6874" alt="Player_Comparison_Summary" src="https://github.com/user-attachments/assets/5bfa4473-6808-44f6-810d-cac4063a4b20" />
 
-[Top_Performers_Avg_CPG.pdf](https://github.com/user-attachments/files/29185707/Top_Performers_Avg_CPG.pdf)
+<img width="2850" height="637" alt="Top_Performers_Avg_CPG" src="https://github.com/user-attachments/assets/ada1e7ac-d2af-401d-aa4f-66d1d15abcd5" />
 
-[Top_Performers_Avg_SEN.pdf](https://github.com/user-attachments/files/29185710/Top_Performers_Avg_SEN.pdf)
+<img width="2850" height="637" alt="Top_Performers_Avg_SEN" src="https://github.com/user-attachments/assets/6d411ca1-9268-40d0-a2de-2e9cee390f97" />
 
-[Top_Performers_Goal_Conversion.pdf](https://github.com/user-attachments/files/29185711/Top_Performers_Goal_Conversion.pdf)
+<img width="2850" height="637" alt="Top_Performers_Goal_Conversion" src="https://github.com/user-attachments/assets/dd363f55-fdcf-44c8-9577-5c35fd01d6b9" />
+
+
 
 
 
